@@ -41,6 +41,7 @@ ul{
 dt{
 	float: left;
 	clear: left;
+	width: 8em;
 }
 
 dd{
