@@ -19,5 +19,10 @@ link{
 }
 
 img {
+	background: url(beets.jpg) no-repeat center;
+}
+
+ul{
+	color: darkred;
 
 }
