@@ -1,5 +1,5 @@
 .background {
-	background-color:
+	width:1000px;
 }
 
 h1 {
@@ -7,7 +7,7 @@ h1 {
 }
 
 figcaption{
-	background-color:black;
+	background-color:lightgrey;
 	color: grey;
 }
 
