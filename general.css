@@ -4,10 +4,10 @@ html{
 
 .background {
 	background-color: white;
-	border: 1px solid black;
+	border: 1px solid;
 	border-radius: 10px;
-	margin:10%;
-	width:90%;
+	margin:50%;
+	width:50%;
 }
 
 h1 {
@@ -15,12 +15,12 @@ h1 {
 }
 
 figcaption{
-	background-color:lightgrey;
 	color: grey;
+	border: lightgrey;
 }
 
 blockquote{
-	background-color:lightgrey;
+	border:lightgrey;
 }
 
 footer{
@@ -44,6 +44,7 @@ ul{
 	border: 1px solid darkred;
 	overflow: hidden;
 	background-color:pink;
+	text-decoration: none;
 }
 
 dt{
