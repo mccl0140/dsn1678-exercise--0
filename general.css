@@ -1,3 +1,7 @@
+html{
+	background-color:grey;
+}
+
 .background {
 	border-style: solid, thin, black, 2px;
 	margin:10%;
