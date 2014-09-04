@@ -1,5 +1,6 @@
 .background {
 	border-style: solid, thin, black, 2px;
+	padding: 5px;
 }
 
 h1 {
@@ -33,7 +34,7 @@ img {
 
 ul{
 	color: darkred;
-	border: darkred, solid, thin, 0.1px;
+	border: darkred, solid, thin, 1px;
 	background-color:pink;
 }
 
@@ -44,6 +45,11 @@ dt{
 
 dd{
 	float: left;
-	margin: 0
+	margin: 0;
 	padding: 0;
+}
+
+dl{
+	border: 1px solid red;
+	overflow: hidden;
 }
