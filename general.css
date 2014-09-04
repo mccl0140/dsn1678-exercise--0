@@ -3,7 +3,7 @@ html{
 }
 
 .background {
-	border-style: solid, thin, black, 2px;
+	border: 1px solid black;
 	margin:10%;
 	width:90%;
 }
