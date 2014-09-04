@@ -1,6 +1,5 @@
 .background {
-	width:500px;
-	border: solid, thin, black, 2px;
+	border-style: solid, thin, black, 2px;
 }
 
 h1 {
