@@ -1,6 +1,6 @@
 .background {
 	width:500px;
-	border: thin, black, 2px;
+	border: solid, thin, black, 2px;
 }
 
 h1 {
@@ -34,6 +34,6 @@ img {
 
 ul{
 	color: darkred;
-	border: darkred, thin, 0.1px;
+	border: darkred, solid, thin, 0.1px;
 	background-color:pink;
 }
