@@ -1,6 +1,7 @@
 .background {
 	border-style: solid, thin, black, 2px;
-	margin: 20px;
+	margin:10%;
+	width:90%;
 }
 
 h1 {
@@ -29,12 +30,13 @@ link{
 }
 
 img {
-	width: 500px;
+	width: 100%;
 }
 
 ul{
 	color: darkred;
-	border: darkred, solid, thin, 1px;
+	border: 1px solid darkred;
+	overflow: hidden;
 	background-color:pink;
 }
 
